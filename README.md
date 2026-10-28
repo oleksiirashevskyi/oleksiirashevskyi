@@ -105,7 +105,7 @@ Alongside QA/SDET work, I also design and build **SaaS and AI-powered products f
 
 ## Industry Experience
 
-### theScore (PENN Interactive), Toronto, ON | Feb 2024 - Nov 2025
+### theScore (PENN Interactive), Toronto, ON | Feb 2024 - Present
 **Senior QA Automation Engineer** | Sports & Sports Betting
 
 Worked as part of a core automation team within a larger QA automation organization, contributing to shared frameworks, infrastructure, code quality, and cross-platform automation across mobile, web, API, and backend systems.
