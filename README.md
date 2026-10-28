@@ -1,14 +1,15 @@
 # Oleksii Rashevskyi
 
 ### Senior QA Automation Engineer | SDET
+**Product Engineering · SaaS Development · AI Integrations**
 
 **8+ years of hands-on experience** building and improving automation across **mobile, web, API, and backend systems**.
 
 My core focus is building automation that provides a **reliable release signal** through maintainable framework design, stable test data, service-level validation, CI/CD integration, cross-platform execution, and fast feedback.
 
-I work primarily with **Kotlin and Java** and have extensive experience across mobile, web, backend, API, and end-to-end automation.
+I work primarily with **Kotlin and Java**, with experience across automation frameworks, mobile and web testing, backend services, APIs, CI/CD, and end-to-end validation.
 
-Alongside QA/SDET work, I also build **AI-assisted software, automation workflows, and SaaS products**, with a strong focus on reliability, maintainability, validation, and production readiness.
+Alongside QA/SDET work, I also design and build **SaaS and AI-powered products from idea to production**, including frontend and backend development, APIs, third-party integrations, automation workflows, cloud services, deployment, and production support.
 
 ---
 
@@ -25,7 +26,7 @@ Alongside QA/SDET work, I also build **AI-assisted software, automation workflow
 - Flaky-test reduction and regression optimization
 - Cross-device and cross-platform validation
 - Code reviews and automation quality standards
-- AI-assisted engineering and product development
+- Product engineering, SaaS development, and AI integrations
 
 ---
 
@@ -82,6 +83,17 @@ Alongside QA/SDET work, I also build **AI-assisted software, automation workflow
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-Test_Management-65C179?style=flat-square)
 
+### Product Engineering
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Cloud_Services-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-Authentication-6C47FF?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-API_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+
 ### AI-Assisted Engineering
 
 ![Cursor](https://img.shields.io/badge/Cursor-AI_Assisted_Development-000000?style=flat-square)
@@ -93,19 +105,19 @@ Alongside QA/SDET work, I also build **AI-assisted software, automation workflow
 
 ## Industry Experience
 
-### theScore (PENN Interactive), Toronto, ON | Feb 2024 - Present
+### theScore (PENN Interactive), Toronto, ON | Feb 2024 - Nov 2025
 **Senior QA Automation Engineer** | Sports & Sports Betting
 
-Working as part of a core automation team within a larger QA automation organization, contributing to shared frameworks, infrastructure, code quality, and cross-platform automation across mobile, web, API, and backend systems.
+Worked as part of a core automation team within a larger QA automation organization, contributing to shared frameworks, infrastructure, code quality, and cross-platform automation across mobile, web, API, and backend systems.
 
 Selected impact:
 
 - Expanded sportsbook automation coverage from **15 to 300+ end-to-end Appium and Selenium tests** across high-impact wagering, account, and marketplace workflows
-- Helped improve regression pass rate from approximately **75% to 98%** through framework improvements, test-data isolation, synchronization improvements, and flaky-test reduction
+- Improved regression pass rate from approximately **75% to 98%** through framework improvements, test-data isolation, synchronization improvements, and flaky-test reduction
 - Co-designed and enhanced a shared **Kotlin automation framework** integrating Appium, Selenium, Playwright, Cucumber, REST Assured, gRPC, and GraphQL
 - Integrated **gRPC services** into the automation framework to replace legacy Selenium-based admin flows, reducing execution time from approximately **1 hour to 3 minutes across 120+ tests**
-- Initiated and built a **Postman GraphQL automation collection from scratch**, later expanding it with other engineers from approximately **140 to 320 tests**, covering 70+ mutations and queries
-- Contributed to Jenkins pipeline configuration and optimization across mobile, web, and backend execution
+- Initiated and built a **Postman GraphQL automation collection from scratch**, later expanding it with other engineers from **140 to 320 tests**, covering 70+ mutations and queries
+- Configured and optimized Jenkins pipelines as part of the core automation team across mobile, web, and backend execution
 - Reviewed and approved QA automation PRs, validating code quality, framework standards, and test design while collaborating with developers and QA engineers
 
 ### UnitedHealthcare, United States | Oct 2021 - Jan 2024
@@ -113,14 +125,14 @@ Selected impact:
 
 Built and maintained automated web and backend coverage for healthcare workflows using Java, Selenium WebDriver, Cucumber, REST Assured, Postman, SQL, Maven, and Jenkins.
 
-Worked across UI automation, API testing, database validation, regression, integration, and backend testing within fast release cycles.
+Worked across UI automation, API testing, database validation, regression, integration, and backend testing within Agile development and release cycles.
 
 ### Instructure, United States | Mar 2018 - Feb 2021
 **QA Automation Engineer** | Education
 
 Developed and maintained automation framework components using Java, Selenium WebDriver, TestNG, REST Assured, SQL, AWS, and Jenkins.
 
-Performed functional, regression, integration, backend, and database validation while contributing to automation improvements within an Agile engineering environment.
+Performed functional, smoke, regression, integration, backend, and database validation while contributing to automation improvements within an Agile engineering environment.
 
 ---
 
@@ -140,7 +152,7 @@ Replaced legacy Selenium-based administrative workflows with **gRPC service auto
 
 ### API Automation
 
-Initiated a **Postman GraphQL automation collection from scratch**, later expanded with other engineers from approximately **140 to 320 tests**, covering 70+ queries and mutations with CLI and GitHub Actions integration.
+Initiated and built a **Postman GraphQL automation collection from scratch**, later expanded with other engineers from **140 to 320 tests**, covering 70+ queries and mutations with CLI and GitHub Actions integration.
 
 ### Framework Engineering
 
@@ -174,21 +186,31 @@ My engineering approach includes:
 
 ---
 
-## AI-Assisted Engineering & Product Development
+## Product Engineering & AI Development
 
-Alongside QA/SDET work, I build and integrate **AI-assisted software, automation workflows, and SaaS product features**.
+Alongside QA/SDET work, I design and build **SaaS products, AI-powered applications, automation systems, and production-oriented software solutions from idea to production**.
 
 My work in this area includes:
 
+- full-stack SaaS development
+- frontend and backend implementation
+- application and system architecture
+- API design and third-party integrations
+- authentication and user management
+- payments and subscription workflows
+- databases and cloud storage
 - AI and API integrations
-- backend services and system integrations
-- automation-heavy workflows
-- scalable processing pipelines
-- AI-assisted software development
-- SaaS product development
-- production validation and reliability
-- maintainable systems around AI capabilities
+- automation workflows and background processing
+- scalable batch and processing pipelines
+- cloud services and deployment
+- CI/CD and production workflows
+- analytics, monitoring, and production support
+- testing, validation, and reliability engineering
 
-I use tools such as **Cursor, GitHub Copilot, OpenAI Codex, and Claude Code** to support development, debugging, refactoring, code review, and technical analysis.
+My product development work spans **modern frontend and backend frameworks, databases, cloud services, authentication, payments, storage, third-party APIs, AI integrations, automation workflows, and production infrastructure**.
 
-My QA/SDET background strongly influences how I approach product engineering. I focus not only on delivering functionality, but also on **reliability, scalability, maintainability, validation, observability, and production readiness**.
+Depending on product requirements, I work with technologies such as **Next.js, React, TypeScript, Supabase, Cloudflare services, OpenAI APIs, and other modern development platforms and services**.
+
+I use **Cursor, GitHub Copilot, OpenAI Codex, and Claude Code** to support development, debugging, refactoring, code review, technical analysis, and faster product iteration.
+
+My QA/SDET background strongly influences how I approach product engineering. I focus not only on delivering functionality, but also on **reliability, scalability, maintainability, validation, observability, security, and production readiness**.
