@@ -124,7 +124,7 @@ Selected impact:
 
 - Expanded sportsbook automation coverage from **15 to 300+ end-to-end Appium and Selenium tests** across high-impact wagering, account, and marketplace workflows
 - Improved regression pass rate from approximately **75% to 98%** through framework improvements, test-data isolation, synchronization improvements, and flaky-test reduction
-- Co-designed and enhanced a shared **Kotlin automation framework** integrating Appium, Selenium, Playwright, Cucumber, REST Assured, gRPC, and GraphQL
+- Co-designed and enhanced a shared **Kotlin automation framework** integrating **Appium**, **Selenium**, **Playwright**, **Cucumber**, **REST Assured**, **Spring Boot Test**, **WireMock**, **gRPC**, and **GraphQL** across mobile, web, API, and backend services
 - Integrated **gRPC services** into the automation framework to replace legacy Selenium-based admin flows, reducing execution time from approximately **1 hour to 3 minutes across 120+ tests**
 - Initiated and built a **Postman GraphQL automation collection from scratch**, later expanding it with other engineers from **140 to 320 tests**, covering 70+ mutations and queries
 - Configured and optimized Jenkins pipelines as part of the core automation team across mobile, web, and backend execution
