@@ -54,6 +54,8 @@ Alongside QA/SDET work, I also design and build **SaaS and AI-powered products f
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square)
+![Spring Boot Test](https://img.shields.io/badge/Spring_Boot_Test-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![WireMock](https://img.shields.io/badge/WireMock-Mocking-6A5ACD?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### CI/CD & Infrastructure
@@ -71,8 +73,15 @@ Alongside QA/SDET work, I also design and build **SaaS and AI-powered products f
 
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-Mocking-78A641?style=flat-square)
 
 `BDD` · `POM` · `SOLID` · `Automation Framework Design` · `Agile / Scrum`
+
+### Performance Testing
+
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
 ### Tools & Reporting
 
